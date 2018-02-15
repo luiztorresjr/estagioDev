@@ -21,10 +21,16 @@
   - git
 
   ### Referências usadas
-  [Aprenda Markdown](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
-  [GIT](https://git-scm.com)
-  [JQuery.getJSON](http://api.jquery.com/jQuery.getJSON/)
-  [W3School - css](https://www.w3schools.com/css/default.asp)
-  [JSON manipular](https://pt.stackoverflow.com/questions/120845/ler-e-manipular-dados-de-json-usando-jquery/120860)
+
+  [Aprenda Markdown](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/ "Aprenda Markdown")
+
+  [GIT](https://git-scm.com "GIT")
+
+  [JQuery.getJSON](http://api.jquery.com/jQuery.getJSON/ "JQuery.getJSON")
+
+  [W3School - css](https://www.w3schools.com/css/default.asp "CSS")
+
+  [JSON manipular](https://pt.stackoverflow.com/questions/120845/ler-e-manipular-dados-de-json-usando-jquery/120860 "Para saber manipular JSON")
+  
 
 
