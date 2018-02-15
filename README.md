@@ -11,8 +11,10 @@
   Criar a funcão do java para apresentar o e-mail do username samantha
 * 5º etapa:
   Adicionar o trecho do index para contar quantos usuários estão no hemisfério sul
-* 6º etapa
+* 6º etapa:
   Criar um css para pelo dar um style mais simples 
+* 7º etapa:
+  Colocação do comentârio
 
   ### Tecnologias usadas
   - html
