@@ -1,5 +1,5 @@
 # estagioDev
-## Desenvolvido por Luiz Torres Junior
+### Desenvolvido por Luiz Torres Junior
 ### Todas as informações usadas para o desenvolvimento foram especificadas ao final.
 * 1º etapa:
   Criar o index com uma lista para preencher
@@ -14,13 +14,13 @@
 * 6º etapa
   Criar um css para pelo dar um style mais simples 
 
-  ## Tecnologias usadas
+  ### Tecnologias usadas
   - html
   - css
   - jquery
   - git
 
-  ## Referências usadas
+  ### Referências usadas
   [Aprenda Markdown](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
   [GIT](https://git-scm.com)
   [JQuery.getJSON](http://api.jquery.com/jQuery.getJSON/)
