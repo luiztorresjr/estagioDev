@@ -12,3 +12,7 @@ body{
 ul, li{
 	list-style: none;
 }
+
+#total{
+	margin-left: 3%;
+}
