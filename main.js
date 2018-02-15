@@ -21,9 +21,24 @@ function lerEmail(){
 	}
 }
 
+function lerLatitude(){
+	lerLatitude.prototype.obterLatitude = function(){
+		var valor = 0;
+		$.getJSON( url, function(data) {
+  		$.each( data, function(id) {
+			if(data[id]['address']['geo']['lat'] <= 0)
+				valor++;
+  		});
+  		$('#total').append( "Total: "+valor);
+  	});
+	}
+}
 
 var sites = new lerSites();
 sites.obterSites();
 
 var email = new lerEmail();
 email.obterEmail();
+
+var latitude = new lerLatitude();
+latitude.obterLatitude();
