@@ -10,5 +10,20 @@ function lerSites(){
 	}
 }
 
+function lerEmail(){
+	lerEmail.prototype.obterEmail = function(){
+		$.getJSON( url, function(data) {
+  		$.each( data, function(id) {
+  			if(data[id]['username'] == 'Samantha')
+  				$('#email').append( "<li>" + data[id]['email']+ "</li>" );
+  		});
+  	});
+	}
+}
+
+
 var sites = new lerSites();
 sites.obterSites();
+
+var email = new lerEmail();
+email.obterEmail();
